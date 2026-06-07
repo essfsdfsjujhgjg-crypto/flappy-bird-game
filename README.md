@@ -1,29 +1,29 @@
 # flappy-bird-game
-flappy-bird-game created using c programming language
-First download ubuntu
-https://ubuntu.com/download
+<h1>flappy-bird-game created using c programming language</h1>
+<h3>First download ubuntu</h3> 
+https://ubuntu.com/download<br><br>
 
-Then open ubuntu and type to update your system
-sudo apt update
-sudo -pt upgrade -y
+<h3>Then open ubuntu and type this to update your system</h3>
+sudo apt update<br>
+sudo -pt upgrade -y<br>
 
-install xfce
-sudo apt install xfce4 xfce4-goodies-y
+<h3>install xfce</h3>
+sudo apt install xfce4 xfce4-goodies-y<br>
 
-restart and log in
-sudo reboot
+<h3>restart and log in</h3>
+sudo reboot<br>
 
-open xfce terminal
-sudo apt update
-sudo apt-get install libncurses5-dev
-mkdir ~/project
-cd ~/project
-touch flappy_bird.c
-code ..
-paste in the code
+<h3>open xfce terminal</h3>
+sudo apt update<br>
+sudo apt-get install libncurses5-dev<br>
+mkdir ~/project<br>
+cd ~/project<br>
+touch flappy_bird.c<br>
+code ..<br>
+paste in the code<br>
 
-run the code in the xfce
-cd ~/project
-gcc -o flappy_bird flappy_bird.c -lcurses
+<h3>run the code in the xfce</h3>
+cd ~/project<br>
+gcc -o flappy_bird flappy_bird.c -lcurses<br><br>
 ./flappy_bird
 <img width="812" height="518" alt="image" src="https://github.com/user-attachments/assets/52a189d4-22cc-4913-82de-1a02401b69d6" />
