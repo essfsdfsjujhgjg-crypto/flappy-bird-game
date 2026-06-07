@@ -5,7 +5,7 @@ https://ubuntu.com/download<br><br>
 
 <h3>Then open ubuntu and type this to update your system</h3>
 sudo apt update<br>
-sudo -pt upgrade -y<br>
+sudo apt upgrade -y<br>
 
 <h3>install xfce</h3>
 sudo apt install xfce4 xfce4-goodies-y<br>
