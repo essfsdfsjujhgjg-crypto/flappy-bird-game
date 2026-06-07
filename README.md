@@ -24,6 +24,6 @@ paste in the code<br>
 
 <h3>run the code in the xfce</h3>
 cd ~/project<br>
-gcc -o flappy_bird flappy_bird.c -lcurses<br><br>
-./flappy_bird
+gcc -o flappy_bird flappy_bird.c -lcurses<br>
+./flappy_bird<br><br>
 <img width="812" height="518" alt="image" src="https://github.com/user-attachments/assets/52a189d4-22cc-4913-82de-1a02401b69d6" />
